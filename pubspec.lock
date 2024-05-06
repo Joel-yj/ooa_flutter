@@ -49,6 +49,118 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.8"
+  dot_camera:
+    dependency: transitive
+    description:
+      name: dot_camera
+      sha256: a62b0282e84657807ead6e7abacbcb170cfbb0b683efda27ecde2f932b9f407f
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_core:
+    dependency: transitive
+    description:
+      name: dot_core
+      sha256: "402d1ffdc279c1ae2486ff9011beb3c79241a06445959d69a23dbfd9a68dd573"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_core_android:
+    dependency: transitive
+    description:
+      name: dot_core_android
+      sha256: "342d91327f8924719cca93013854189dce4f583ec01fa644ff444ed83a5e451b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_core_ios:
+    dependency: transitive
+    description:
+      name: dot_core_ios
+      sha256: cef2c5de0f735c9ae5963f40550a1f8eff09581d900dc17e04a4dcd1fb686a6c
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_core_platform_interface:
+    dependency: transitive
+    description:
+      name: dot_core_platform_interface
+      sha256: "64caaf7a25e0c32413debd487e4d7ed38140ac2d0f1785d0f8e077532b598b1d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_document:
+    dependency: "direct main"
+    description:
+      name: dot_document
+      sha256: "9364db51498dd962a3acfafb7cfc937dc67b30243a798aaa2e0e43a2252ae627"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_document_android:
+    dependency: transitive
+    description:
+      name: dot_document_android
+      sha256: d15bc0431f4f4c37e8def49114b8cdd962dc898dc3460b285e0f21606b295b1c
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_document_ios:
+    dependency: transitive
+    description:
+      name: dot_document_ios
+      sha256: "8c85b03abc2664f25ec9d0fb6844ab8c9032c8915979791c8662c31ccffb1172"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_document_platform_interface:
+    dependency: transitive
+    description:
+      name: dot_document_platform_interface
+      sha256: "029a7a84a77cc83c1881e54cd56d6982d5c1b9e1a8c2545ddc980f95eebe06e3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_face_lite:
+    dependency: "direct main"
+    description:
+      name: dot_face_lite
+      sha256: f2a05fb0e3663cc78df3b3ecd19ca17077937db1aedc6d72396e54efebc0114b
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_face_lite_android:
+    dependency: transitive
+    description:
+      name: dot_face_lite_android
+      sha256: "36be686eabdd3820ff902b3265ed302498e8683df10467c0d577bd8f25943464"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_face_lite_ios:
+    dependency: transitive
+    description:
+      name: dot_face_lite_ios
+      sha256: f0240f5530e97ec34479dd75da60118cb6701560a67fdb39cd71e6d733c3e5e6
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_face_lite_platform_interface:
+    dependency: transitive
+    description:
+      name: dot_face_lite_platform_interface
+      sha256: b1e82cebd2ab75b6f855c0bcd8c3b1a00d27ed6ab542c7481f704dfbde1aa611
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
+  dot_image:
+    dependency: transitive
+    description:
+      name: dot_image
+      sha256: bca2c62cc2b677b6f3e89e6cd01a34731204cdff6e9366ba5f8c9ce80850b2b3
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.0"
   fake_async:
     dependency: transitive
     description:
@@ -139,6 +251,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.0"
+  plugin_platform_interface:
+    dependency: transitive
+    description:
+      name: plugin_platform_interface
+      sha256: "4820fbfdb9478b1ebae27888254d445073732dae3d6ea81f0b7e06d5dedc3f02"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.8"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -210,3 +330,4 @@ packages:
     version: "13.0.0"
 sdks:
   dart: ">=3.2.0-0 <4.0.0"
+  flutter: ">=3.10.0"
