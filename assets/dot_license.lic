@@ -1,0 +1,46 @@
+{
+    "version": "2.1",
+    "contract": {
+        "customer": "MinistryofManpower(Singapore)",
+        "expiration": {
+            "day": 30,
+            "month": 6,
+            "year": 2024
+        },
+        "hwids": [
+            "A4exQYdKz7Z5sjID"
+        ],
+        "products": [
+            "iface"
+        ],
+        "idkit": {
+            "database_size": 0,
+            "max_client_connections": 0
+        },
+        "dot": {
+            "evaluation": true,
+            "mobile": {
+                "face": {
+                    "enabled": true,
+                    "features": {
+                        "matching": true,
+                        "passiveLiveness": true
+                    }
+                },
+                "document": {
+                    "enabled": true
+                },
+                "nfc": {
+                    "enabled": true
+                },
+                "faceLite": {
+                    "enabled": true
+                },
+                "features": {
+                    "realTimeTransactionReportingEnabled": true
+                }
+            }
+        }
+    },
+    "contract_signature": "fkhVdapdSI6H5OLdbYNJtN2GFgrq2YX9Dgr0eXjmnb+qm4RFI7vspC/LDO8MnB3u1lq8K2PYOJHDJp3fCMrGzctojTRXsR0gsy13ljT+xTuoG3UIHDAxL/uYatmzHULw3Ts99+8IKzqhPcpsPCbNCD2xPmMlxK2ZJ66oj4EzeLA="
+}
